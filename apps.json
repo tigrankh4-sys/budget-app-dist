@@ -12,13 +12,21 @@
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "1.6",
+      "version": "1.7",
       "versionDate": "2026-05-31",
-      "versionDescription": "Moderne light soft-UI (verfijnd neumorfisme): lichte modus, zacht relief, geen metaal/grain. Zelfde layout.",
-      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.6/Budget.ipa",
-      "size": 893923,
+      "versionDescription": "Fysieke lathe-turned draaiknoppen voor de 50/30/20-split.",
+      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.7/Budget.ipa",
+      "size": 894600,
       "minOSVersion": "15.0",
       "versions": [
+        {
+          "version": "1.7",
+          "date": "2026-05-31",
+          "localizedDescription": "Fysieke lathe-turned draaiknoppen voor de 50/30/20-split.",
+          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.7/Budget.ipa",
+          "size": 894600,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.6",
           "date": "2026-05-31",

@@ -12,7 +12,7 @@
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "0.1.2",
+      "version": "1.0",
       "versionDate": "2026-05-30",
       "versionDescription": "Swipe-to-dismiss op sheets, forecast per maand + jaar-navigatie, instelbare 50/30/20-split, bewerk/verwijder uitgaven.",
       "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.2/Budget.ipa",
@@ -20,27 +20,11 @@
       "minOSVersion": "15.0",
       "versions": [
         {
-          "version": "0.1.2",
+          "version": "1.0",
           "date": "2026-05-30",
           "localizedDescription": "Swipe-to-dismiss op sheets, forecast per maand + jaar-navigatie, instelbare 50/30/20-split, bewerk/verwijder uitgaven.",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.2/Budget.ipa",
           "size": 1405530,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.1.1",
-          "date": "2026-05-30",
-          "localizedDescription": "Per-sectie gekleurde gradient-hero's, grotere data-cards en getallen (Health detail-kwaliteit).",
-          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.1/Budget.ipa",
-          "size": 919810,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.1.0",
-          "date": "2026-05-30",
-          "localizedDescription": "Forecast (Zakelijk/Fun/BTW) + Apple Health dark UI met mono font.",
-          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.0/Budget.ipa",
-          "size": 1713855,
           "minOSVersion": "15.0"
         }
       ],

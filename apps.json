@@ -7,22 +7,30 @@
       "bundleIdentifier": "be.tigranmedia.budget",
       "developerName": "Tigran Media",
       "subtitle": "Budgetting met 50/30/20 forecast",
-      "localizedDescription": "Persoonlijke budget-app. Forecast met instelbare Zakelijk/Fun/BTW-verdeling per maand, BTW opzij zetten per maand en per kwartaal, per categorie en per groep zien hoeveel je hebt besteed, backup/herstel en een backup-herinnering. Skeuomorfische dark UI met mono font. Alles lokaal en prive op je toestel.",
+      "localizedDescription": "Persoonlijke budget-app. Forecast met instelbare Zakelijk/Fun/BTW-verdeling per maand, BTW opzij zetten per maand en per kwartaal, per categorie en per groep zien hoeveel je hebt besteed, backup/herstel en een backup-herinnering. Moderne light soft-UI met mono font. Alles lokaal en prive op je toestel.",
       "iconURL": "https://raw.githubusercontent.com/tigrankh4-sys/budget-app-dist/main/icon.png",
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "1.5",
+      "version": "1.6",
       "versionDate": "2026-05-31",
-      "versionDescription": "Skeuomorphism: metalen platen met bevels, glanzende toetsen/knoppen, film grain. Zelfde layout.",
-      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.5/Budget.ipa",
-      "size": 882567,
+      "versionDescription": "Moderne light soft-UI (verfijnd neumorfisme): lichte modus, zacht relief, geen metaal/grain. Zelfde layout.",
+      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.6/Budget.ipa",
+      "size": 893923,
       "minOSVersion": "15.0",
       "versions": [
         {
+          "version": "1.6",
+          "date": "2026-05-31",
+          "localizedDescription": "Moderne light soft-UI (verfijnd neumorfisme): lichte modus, zacht relief, geen metaal/grain. Zelfde layout.",
+          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.6/Budget.ipa",
+          "size": 893923,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.5",
           "date": "2026-05-31",
-          "localizedDescription": "Skeuomorphism: metalen platen met bevels, glanzende toetsen/knoppen, film grain. Zelfde layout.",
+          "localizedDescription": "Skeuomorphism: metalen platen met bevels, glanzende toetsen/knoppen, film grain.",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.5/Budget.ipa",
           "size": 882567,
           "minOSVersion": "15.0"
@@ -38,7 +46,7 @@
         {
           "version": "1.3",
           "date": "2026-05-31",
-          "localizedDescription": "Backup & herstel (data exporteren/importeren) + BTW per kwartaal op Overzicht.",
+          "localizedDescription": "Backup & herstel + BTW per kwartaal op Overzicht.",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.3/Budget.ipa",
           "size": 888676,
           "minOSVersion": "15.0"
@@ -46,7 +54,7 @@
         {
           "version": "1.2",
           "date": "2026-05-30",
-          "localizedDescription": "BTW opzij te zetten op Overzicht (inkomen x BTW%) voor een aparte rekening.",
+          "localizedDescription": "BTW opzij te zetten op Overzicht (inkomen x BTW%).",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.2/Budget.ipa",
           "size": 886961,
           "minOSVersion": "15.0"
@@ -54,7 +62,7 @@
         {
           "version": "1.1",
           "date": "2026-05-30",
-          "localizedDescription": "Per groep (Zakelijk/Fun/BTW) op Overzicht, swipe-to-dismiss op sheets, forecast per maand + jaar-navigatie, instelbare 50/30/20-split.",
+          "localizedDescription": "Per groep op Overzicht, swipe-to-dismiss, forecast per maand + jaar-navigatie, instelbare split.",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.1/Budget.ipa",
           "size": 886601,
           "minOSVersion": "15.0"
@@ -62,7 +70,7 @@
         {
           "version": "1.0",
           "date": "2026-05-30",
-          "localizedDescription": "Swipe-to-dismiss op sheets, forecast per maand + jaar-navigatie, instelbare 50/30/20-split, bewerk/verwijder uitgaven.",
+          "localizedDescription": "Swipe-to-dismiss, forecast per maand + jaar-navigatie, instelbare split, bewerk/verwijder uitgaven.",
           "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.2/Budget.ipa",
           "size": 1405530,
           "minOSVersion": "15.0"

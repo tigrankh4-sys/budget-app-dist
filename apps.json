@@ -12,13 +12,21 @@
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "0.1.0",
+      "version": "0.1.1",
       "versionDate": "2026-05-30",
-      "versionDescription": "Forecast (Zakelijk/Fun/BTW) + Apple Health dark UI met mono font.",
-      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.0/Budget.ipa",
-      "size": 1713855,
+      "versionDescription": "Per-sectie gekleurde gradient-hero's, grotere data-cards en getallen (Health detail-kwaliteit).",
+      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.1/Budget.ipa",
+      "size": 919810,
       "minOSVersion": "15.0",
       "versions": [
+        {
+          "version": "0.1.1",
+          "date": "2026-05-30",
+          "localizedDescription": "Per-sectie gekleurde gradient-hero's, grotere data-cards en getallen (Health detail-kwaliteit).",
+          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v0.1.1/Budget.ipa",
+          "size": 919810,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "0.1.0",
           "date": "2026-05-30",

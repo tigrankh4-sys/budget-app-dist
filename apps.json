@@ -12,13 +12,21 @@
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "1.8",
+      "version": "1.9",
       "versionDate": "2026-06-02",
-      "versionDescription": "Saldo loopt door: restant van vorige maanden wordt overgedragen naar de nieuwe maand.",
-      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.8/Budget.ipa",
-      "size": 894911,
+      "versionDescription": "Forecast herbouwd: verdeel elke inkomst over Belasting/Kosten/Jezelf uitbetalen (Leven/Fun/Sparen), met per-betaling breakdown.",
+      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.9/Budget.ipa",
+      "size": 895670,
       "minOSVersion": "15.0",
       "versions": [
+        {
+          "version": "1.9",
+          "date": "2026-06-02",
+          "localizedDescription": "Forecast herbouwd: verdeel elke inkomst over Belasting/Kosten/Jezelf uitbetalen (Leven/Fun/Sparen), met per-betaling breakdown.",
+          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.9/Budget.ipa",
+          "size": 895670,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.8",
           "date": "2026-06-02",

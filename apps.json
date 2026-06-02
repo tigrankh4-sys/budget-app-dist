@@ -12,13 +12,21 @@
       "tintColor": "0A84FF",
       "category": "finance",
       "screenshotURLs": [],
-      "version": "1.7",
-      "versionDate": "2026-05-31",
-      "versionDescription": "Fysieke lathe-turned draaiknoppen voor de 50/30/20-split.",
-      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.7/Budget.ipa",
-      "size": 894600,
+      "version": "1.8",
+      "versionDate": "2026-06-02",
+      "versionDescription": "Saldo loopt door: restant van vorige maanden wordt overgedragen naar de nieuwe maand.",
+      "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.8/Budget.ipa",
+      "size": 894911,
       "minOSVersion": "15.0",
       "versions": [
+        {
+          "version": "1.8",
+          "date": "2026-06-02",
+          "localizedDescription": "Saldo loopt door: restant van vorige maanden wordt overgedragen naar de nieuwe maand.",
+          "downloadURL": "https://github.com/tigrankh4-sys/budget-app-dist/releases/download/v1.8/Budget.ipa",
+          "size": 894911,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.7",
           "date": "2026-05-31",
